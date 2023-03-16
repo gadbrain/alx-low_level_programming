@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * This program prints output using the PRINTF keyword
+ * main - Entry point
  *
- * Created by Gabriel K
+ * Return: always 0
  */
 int main(void)
 {

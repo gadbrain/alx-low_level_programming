@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * This program prints the size of various types on the computer
+ * main - Entry point
  *
- * Created by Gabriel K
+ * Return: always 0
  */
 int main(void)
 {

@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * This program prints an output using the PUT keyword
+ * main - Entry point
  *
- * Created by Gabriel Olayinka
+ * Return: always 0
  */
 int main(void)
 {
